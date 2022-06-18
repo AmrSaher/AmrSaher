@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning PHP
 - 🔭 I’m currently working on website development, frameworks, and databases.
-- 👯 I’m looking to collaborate on learning more coding languages and building frameworks and libraries for them.
+- 👯 I’m looking to collaborate on learning more in website development and building tools to help me.
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmrSaher&show_icons=true&locale=en&layout=compact" alt="abdelrahman-saher" /></p>
