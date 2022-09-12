@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmrSaher
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Ruby on rails
 - 🔭 I’m currently working on website development, frameworks, and databases.
 - 👯 I’m looking to collaborate on learning more in website development and building tools to help me.
 
