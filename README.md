@@ -33,6 +33,7 @@
 ### Tools
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/AmrSaher)
 [![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/AmrSaher)
+[![VSCode](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=vscode)](https://github.com/AmrSaher)
 
 <details>
 <p align="center">
