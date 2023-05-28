@@ -36,6 +36,8 @@
 [![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/AmrSaher)
 [![VSCode](https://img.shields.io/badge/vs%20code-black?style=for-the-badge&logo=visualstudiocode)](https://github.com/AmrSaher)
 
+<h1 align="center">Details</h1>
+
 <p align="center">
   <a href="https://github.com/AmrSaher">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmrSaher&theme=transparent" />
