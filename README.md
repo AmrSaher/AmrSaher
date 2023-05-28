@@ -24,6 +24,7 @@
 ### Front-End
 [![Vue.js](https://img.shields.io/badge/vue-black?style=for-the-badge&logo=vuedotjs)](https://github.com/AmrSaher)
 [![Nuxt.js](https://img.shields.io/badge/nuxt-black?style=for-the-badge&logo=nuxtdotjs)](https://github.com/AmrSaher)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/AmrSaher)
 
 ### Back-End
 [![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/AmrSaher)
