@@ -13,11 +13,11 @@
 </p>
 
 ### Languages
-[![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html)](https://github.com/AmrSaher)
-[![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css)](https://github.com/AmrSaher)
+[![HTML](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/AmrSaher)
+[![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/AmrSaher)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/AmrSaher)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/AmrSaher)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql)](https://github.com/AmrSaher)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/AmrSaher)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/AmrSaher)
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=c#)](https://github.com/AmrSaher)
 
@@ -27,7 +27,7 @@
 
 ### Back-End
 [![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/AmrSaher)
-[![ASP.NET](https://img.shields.io/badge/asp-black?style=for-the-badge&logo=asp.net)](https://github.com/AmrSaher)
+[![ASP.NET](https://img.shields.io/badge/asp-black?style=for-the-badge&logo=asp)](https://github.com/AmrSaher)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/AmrSaher)
 
 <details>
