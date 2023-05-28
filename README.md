@@ -30,26 +30,30 @@
 [![ASP.NET](https://img.shields.io/badge/asp-black?style=for-the-badge&logo=dotnet)](https://github.com/AmrSaher)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/AmrSaher)
 
+### Tools
+[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/AmrSaher)
+[![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/AmrSaher)
+
 <details>
 <p align="center">
-  <a href="https://github.com/wervlad">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wervlad&theme=transparent" />
+  <a href="https://github.com/AmrSaher">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmrSaher&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wervlad&hide_border=true&card_width=338&theme=transparent" />
+  <a href="https://github.com/AmrSaher">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrSaher&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wervlad&theme=transparent" />
+  <a href="https://github.com/AmrSaher">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmrSaher&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wervlad&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  <a href="https://github.com/AmrSaher">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrSaher&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
 
 <p align="center">
-  <a href="https://github.com/wervlad">
-    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
+  <a href="https://github.com/AmrSaher">
+    <img src="https://komarev.com/ghpvc/?username=AmrSaher&color=blue&style=flat)" />
   </a>
 </p>
 <!--
