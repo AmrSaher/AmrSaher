@@ -19,7 +19,7 @@
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/AmrSaher)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/AmrSaher)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/AmrSaher)
-[![C#](https://img.shields.io/badge/c#-black?style=for-the-badge&logo=c#)](https://github.com/AmrSaher)
+[![C#](https://img.shields.io/badge/c%20sharp-black?style=for-the-badge&logo=c#)](https://github.com/AmrSaher)
 
 ### Front-End
 [![Vue.js](https://img.shields.io/badge/vue-black?style=for-the-badge&logo=vuedotjs)](https://github.com/AmrSaher)
