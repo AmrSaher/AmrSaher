@@ -22,6 +22,7 @@
 [![C#](https://img.shields.io/badge/c%20sharp-black?style=for-the-badge&logo=c#)](https://github.com/AmrSaher)
 
 ### Front-End
+[![React.js](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/AmrSaher)
 [![Vue.js](https://img.shields.io/badge/vue-black?style=for-the-badge&logo=vuedotjs)](https://github.com/AmrSaher)
 [![Nuxt.js](https://img.shields.io/badge/nuxt-black?style=for-the-badge&logo=nuxtdotjs)](https://github.com/AmrSaher)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/AmrSaher)
