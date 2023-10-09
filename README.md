@@ -1,63 +1,84 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-<p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm Amr Saher.<br>
-        Currently learning to walk in PHP & Laravel without falling on my bottom.<br>
-        Open to collaborating on interesting and innovative projects.<br>
-    </i><br>
-    <a href="https://www.linkedin.com/in/amr-saher-a9003b230/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-</p>
+###
 
-### Languages
-[![HTML](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/AmrSaher)
-[![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/AmrSaher)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/AmrSaher)
-[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/AmrSaher)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/AmrSaher)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/AmrSaher)
-[![C#](https://img.shields.io/badge/c%20sharp-black?style=for-the-badge&logo=c#)](https://github.com/AmrSaher)
-
-### Front-End
-[![React.js](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/AmrSaher)
-[![Vue.js](https://img.shields.io/badge/vue-black?style=for-the-badge&logo=vuedotjs)](https://github.com/AmrSaher)
-[![Nuxt.js](https://img.shields.io/badge/nuxt-black?style=for-the-badge&logo=nuxtdotjs)](https://github.com/AmrSaher)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/AmrSaher)
-[![Tailwind](https://img.shields.io/badge/tailwind%20css-black?style=for-the-badge&logo=tailwindcss)](https://github.com/AmrSaher)
-
-### Back-End
-[![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/AmrSaher)
-[![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/AmrSaher)
-[![ASP.NET](https://img.shields.io/badge/asp-black?style=for-the-badge&logo=dotnet)](https://github.com/AmrSaher)
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/AmrSaher)
-
-### Tools
-[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/AmrSaher)
-[![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/AmrSaher)
-[![VSCode](https://img.shields.io/badge/vs%20code-black?style=for-the-badge&logo=visualstudiocode)](https://github.com/AmrSaher)
-
-<h1 align="center"></h1>
-
-<p align="center">
-  <a href="https://github.com/AmrSaher">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmrSaher&theme=transparent" />
+<div align="center">
+  <a href="https://www.instagram.com/amrsaher56/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://github.com/AmrSaher">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrSaher&hide_border=true&card_width=338&theme=transparent" />
+  <a href="https://www.linkedin.com/in/amr-saher-a9003b230/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/AmrSaher">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmrSaher&theme=transparent" />
-  </a>
-  <a href="https://github.com/AmrSaher">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrSaher&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/AmrSaher">
-    <img src="https://komarev.com/ghpvc/?username=AmrSaher&color=blue&style=flat)" />
-  </a>
-</p>
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AmrSaher.AmrSaher&"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Amr Saher from Egypt<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Laravel & Nuxt<br>- ⚡ In my free time I go to GYM or play video games</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AmrSaher&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/AmrSaher/AmrSaher/output/snake.svg" alt="Snake animation" />
+
+###
